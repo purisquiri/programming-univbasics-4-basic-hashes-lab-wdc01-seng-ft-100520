@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_hash = {
+    :pets = 2
+    :plants = 15
+  }
 end
 
 def pioneer
